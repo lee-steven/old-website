@@ -50,6 +50,11 @@ body {
 
 h1 {
 	font-size: 2em;
+	text-align:center;
+}
+
+.row {
+	text-align:center;
 }
 
 body article {
